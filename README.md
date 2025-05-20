@@ -1,1 +1,1 @@
-# bkm-einfuerung-in-git
+# Grundlagen zu Git
